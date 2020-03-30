@@ -1,1 +1,1 @@
-# SidebarMenuExample
+# sidebar-menu-example
